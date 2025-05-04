@@ -1,0 +1,14 @@
+[8:08:46 PM.874] 
+Registering land ID: 1 for user: a...
+[8:08:50 PM.869] Responses obtained from endorsers!
+[8:08:53 PM.937] Response: Final responses obtained
+
+[8:09:01 PM.384] 
+Registering land ID: 2 for user: a...
+[8:09:04 PM.501] Responses obtained from endorsers!
+[8:09:07 PM.557] Response: Final responses obtained
+
+[8:09:11 PM.724] 
+Registering land ID: 3 for user: a...
+[8:09:15 PM.5] Responses obtained from endorsers!
+[8:09:18 PM.1] Response: Final responses obtained
